@@ -1,0 +1,23 @@
+a. ¿Qué dificultades tuviste durante el desarrollo del controlador?
+ Error de validación
+Dificultades con la lógica de negocio: las consultas no estan optimizadas correctamente
+
+ b. ¿Qué diferencias notaste entre usar un controlador con y sin repository?
+
+Cuando implementamos un repositorio: 
+el uso Repositorio hace que el controlador sea más limpio
+con un repositorio el cambio es más fácil, ya que los controladores no están directamente relacionados con la base de datos
+
+c. ¿Qué buenas prácticas y reflexiones aplicaste en la implementación del proyecto?
+
+Uso de interfaces, DTOs y los GET, POST, PUT y DELETE
+
+Validación y manejo de errores
+
+d. ¿Usaste herramientas para el desarrollo y qué parte del proyecto?
+Postman
+GitHub
+Visual Studio
+
+
+
